@@ -52,3 +52,16 @@ int main()
     getch();
     return 0;
 }
+
+/*SAMPLE RUN:
+
+EMPLOYEE NO.		:	1234
+EMPLOYEE NAME		:	SQUALL
+SALARY			:	32000.00
+YEARS OF SERVICE		:	25
+BONUS			:	24000.00
+
+PROCESS ANOTHER? (Y/N):  
+
+TOTAL BONUS		:   	99999.99
+*/
